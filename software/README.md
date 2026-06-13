@@ -1,14 +1,13 @@
-# ESP32 Firmware
+# Alert System
 
-This folder is intended for firmware that runs on the ESP32 development board.
+This folder is intended for alert-generation logic and notification interface planning.
 
 Future files may include:
 
-- Sensor initialization code.
-- Pulse sensor reading logic.
-- Water immersion sensor reading logic.
-- MPU6050 IMU data collection.
-- Basic threshold checks before transmission.
-- Wireless data transmission from the wearable node.
+- Risk-event formatting.
+- Alert priority rules.
+- Dashboard notification logic.
+- Mobile or web alert integration notes.
+- Buzzer or local indicator control logic.
 
-The current system direction uses ESP32-based sensor interfacing with threshold-based event detection. Any firmware added here should be documented clearly and should avoid claiming production-ready safety certification.
+The current alert concept is event-triggered: when threshold-based or rule-based conditions indicate possible drowning risk, the system generates an alert for monitoring personnel.
