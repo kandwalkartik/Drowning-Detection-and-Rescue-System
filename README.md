@@ -1,13 +1,16 @@
 # Drowning Detection and Rescue System
 
 ![Work in Progress](https://img.shields.io/badge/status-work%20in%20progress-yellow)
-![Python](https://img.shields.io/badge/python-future%20AI%20module-blue)
+![C++](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![ESP32](https://img.shields.io/badge/hardware-ESP32-green)
-![Edge Computing](https://img.shields.io/badge/edge-computing-purple)
+![ESP-NOW](https://img.shields.io/badge/network-ESP--NOW-success)
+![Fog Computing](https://img.shields.io/badge/fog-computing-purple)
 ![IoT](https://img.shields.io/badge/domain-IoT-orange)
+![Future AI Module](https://img.shields.io/badge/AI-future%20module-lightblue)
 ![MIT License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 > Work in Progress: a third-year academic project exploring wearable, fog-assisted drowning risk detection using ESP32, multi-sensor fusion, and future AI-based risk assessment.
+
 
 ## Overview
 
